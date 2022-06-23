@@ -17,8 +17,8 @@
 ح:B-d 1:I-d  مج:B-a  4:I-a  ع:B-b  94:I-b  شقة:B-u 202:I-u <=> getAddress
 ح:B-d 1:I-d  مج:B-a 1:I-a   ع:B-b  10:I-b  نموذج:O  18:O  ش:B-u  44:I-u <=> getAddress
 الحى:B-d  الاول:I-d م:B-a الثالثة:I-a ع:B-b  88:I-b  ش:B-u  321:I-u <=> getAddress
-   13 ش:O  النسيم:O   شقه:B-u   1:I-u    عمارات:B-b  الندئ:I-b     الحئ:B-d الثانئ:I-d   مجاوره:B-a  4:I-a <=> getAddress
-   2 ش:O السوسن:O ف:O ح:O الندئ:O  مج:B-a  4:I-a  ح:B-d 2:I-d <=> getAddress
+   13:O ش:O  النسيم:O   شقه:B-u   1:I-u    عمارات:B-b  الندئ:I-b     الحئ:B-d الثانئ:I-d   مجاوره:B-a  4:I-a <=> getAddress
+   2:O ش:O السوسن:O ف:O ح:O الندئ:O  مج:B-a  4:I-a  ح:B-d 2:I-d <=> getAddress
  الحى:B-d الاول:I-d   المجاورة:B-a الربعة:I-a   عماره:B-b    28:I-b     شقه:B-u  203:I-u <=> getAddress
  الحى:B-d الاول:I-d   المجاورة:B-a الربعة:I-a   عماره:B-b    28:I-b     شقه:B-u  204:I-u <=> getAddress
  الحى:B-d الاول:I-d المجاورة:B-a الثالثة:I-a ع:B-b  50:I-b  ش:B-u  404:I-u <=> getAddress
