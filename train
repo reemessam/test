@@ -1,25 +1,25 @@
 
-ح:B-d 1:I-d    رويال:O سيتى:O   النزهه:O   فيلا:B-u    436:I-u    437:I-u     438:I-u  النزهه:O
-ح:B-d 1:I-d  رويال:O سيتى:O فيلا:B-u  337:I-u   339:I-u  فينوس:O
-ح:B-d 1:I-d  فيلا:B-u  296:I-u  رويال:O سيتى:O فينوس:O
-ح:B-d 1:I-d  فيلا:B-u  659:I-u  اللوتس:O 1:O  رويال:O سيتى:O
-ح:B-d 1:I-d  م:B-a 2:I-a ع:B-b 59:I-b ش:B-u 5:I-u 
-ح:B-d 1:I-d  مج:B-a  1:I-a  ع:B-b  2:I-b  شقه:B-u  41:I-u 
-ح:B-d 1:I-d  مج:B-a  2:I-a  سوق:O اللؤلؤه:O محل:B-u    98:I-u 
-ح:B-d 1:I-d  مج:B-a  4:I-a  ع:B-b  94:I-b  شقة:B-u 202:I-u 
-ح:B-d 1:I-d  مج:B-a 1:I-a   ع:B-b  10:I-b  نموذج:O  18:O  ش:B-u  44:I-u 
-ح:B-d 1:I-d    رويال:O سيتى:O   النزهه:O   فيلا:B-u    436:I-u    437:I-u     438:I-u  النزهه:O
-ح:B-d 1:I-d  رويال:O سيتى:O فيلا:B-u  337:I-u   339:I-u   فينوس:O
-ح:B-d 1:I-d  فيلا:B-u  296:I-u  رويال:O سيتى:O  فينوس:O
-ح:B-d 1:I-d  م:B-a 2:I-a ع:B-b 59:I-b ش:B-u 5:I-u 
-ح:B-d 1:I-d  مج:B-a  1:I-a  ع:B-b  2:I-b  شقه:B-u  41:I-u 
-ح:B-d 1:I-d  مج:B-a  2:I-a  سوق:O اللؤلؤه:O محل:B-u    98:I-u 
-ح:B-d 1:I-d  مج:B-a  4:I-a  ع:B-b  94:I-b  شقة:B-u 202:I-u 
-ح:B-d 1:I-d  مج:B-a 1:I-a   ع:B-b  10:I-b  نموذج:O  18:O  ش:B-u  44:I-u 
-الحى:B-d  الاول:I-d م:B-a الثالثة:I-a ع:B-b  88:I-b  ش:B-u  321:I-u 
-   13 ش:O  النسيم:O   شقه:B-u   1:I-u    عمارات:B-b  الندئ:I-b     الحئ:B-d الثانئ:I-d   مجاوره:B-a  4:I-a 
-   2 ش:O السوسن:O ف:O ح:O الندئ:O  مج:B-a  4:I-a  ح:B-d 2:I-d 
- الحى:B-d الاول:I-d   المجاورة:B-a الربعة:I-a   عماره:B-b    28:I-b     شقه:B-u  203:I-u 
- الحى:B-d الاول:I-d   المجاورة:B-a الربعة:I-a   عماره:B-b    28:I-b     شقه:B-u  204:I-u 
- الحى:B-d الاول:I-d المجاورة:B-a الثالثة:I-a ع:B-b  50:I-b  ش:B-u  404:I-u 
- الحى:B-d الاول:I-d المجاورة:B-a الثانيه:I-a ع:B-b     3:I-b  شقه:B-u   13:I-u 
+ح:B-d 1:I-d    رويال:O سيتى:O   النزهه:O   فيلا:B-u    436:I-u    437:I-u     438:I-u  النزهه:O <=> getAddress
+ح:B-d 1:I-d  رويال:O سيتى:O فيلا:B-u  337:I-u   339:I-u  فينوس:O <=> getAddress
+ح:B-d 1:I-d  فيلا:B-u  296:I-u  رويال:O سيتى:O فينوس:O <=> getAddress
+ح:B-d 1:I-d  فيلا:B-u  659:I-u  اللوتس:O 1:O  رويال:O سيتى:O <=> getAddress
+ح:B-d 1:I-d  م:B-a 2:I-a ع:B-b 59:I-b ش:B-u 5:I-u <=> getAddress
+ح:B-d 1:I-d  مج:B-a  1:I-a  ع:B-b  2:I-b  شقه:B-u  41:I-u <=> getAddress
+ح:B-d 1:I-d  مج:B-a  2:I-a  سوق:O اللؤلؤه:O محل:B-u    98:I-u <=> getAddress
+ح:B-d 1:I-d  مج:B-a  4:I-a  ع:B-b  94:I-b  شقة:B-u 202:I-u <=> getAddress
+ح:B-d 1:I-d  مج:B-a 1:I-a   ع:B-b  10:I-b  نموذج:O  18:O  ش:B-u  44:I-u <=> getAddress
+ح:B-d 1:I-d    رويال:O سيتى:O   النزهه:O   فيلا:B-u    436:I-u    437:I-u     438:I-u  النزهه:O <=> getAddress
+ح:B-d 1:I-d  رويال:O سيتى:O فيلا:B-u  337:I-u   339:I-u   فينوس:O <=> getAddress
+ح:B-d 1:I-d  فيلا:B-u  296:I-u  رويال:O سيتى:O  فينوس:O <=> getAddress
+ح:B-d 1:I-d  م:B-a 2:I-a ع:B-b 59:I-b ش:B-u 5:I-u <=> getAddress
+ح:B-d 1:I-d  مج:B-a  1:I-a  ع:B-b  2:I-b  شقه:B-u  41:I-u <=> getAddress
+ح:B-d 1:I-d  مج:B-a  2:I-a  سوق:O اللؤلؤه:O محل:B-u    98:I-u <=> getAddress
+ح:B-d 1:I-d  مج:B-a  4:I-a  ع:B-b  94:I-b  شقة:B-u 202:I-u <=> getAddress
+ح:B-d 1:I-d  مج:B-a 1:I-a   ع:B-b  10:I-b  نموذج:O  18:O  ش:B-u  44:I-u <=> getAddress
+الحى:B-d  الاول:I-d م:B-a الثالثة:I-a ع:B-b  88:I-b  ش:B-u  321:I-u <=> getAddress
+   13 ش:O  النسيم:O   شقه:B-u   1:I-u    عمارات:B-b  الندئ:I-b     الحئ:B-d الثانئ:I-d   مجاوره:B-a  4:I-a <=> getAddress
+   2 ش:O السوسن:O ف:O ح:O الندئ:O  مج:B-a  4:I-a  ح:B-d 2:I-d <=> getAddress
+ الحى:B-d الاول:I-d   المجاورة:B-a الربعة:I-a   عماره:B-b    28:I-b     شقه:B-u  203:I-u <=> getAddress
+ الحى:B-d الاول:I-d   المجاورة:B-a الربعة:I-a   عماره:B-b    28:I-b     شقه:B-u  204:I-u <=> getAddress
+ الحى:B-d الاول:I-d المجاورة:B-a الثالثة:I-a ع:B-b  50:I-b  ش:B-u  404:I-u <=> getAddress
+ الحى:B-d الاول:I-d المجاورة:B-a الثانيه:I-a ع:B-b     3:I-b  شقه:B-u   13:I-u <=> getAddress
