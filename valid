@@ -1,12 +1,13 @@
+ الحى:O الاول:B-d المجاورة:O الرابعة:B-a ع:O  16:B-b  ش:O  404:B-u <=> getAddress
+ الحى:O الاول:B-d مج:O  3:B-a  ع:O  97:B-b  شقة:O  201:B-u <=> getAddress
+ ح:O 1:B-d  مج:O 5:B-a  ع:O 10:B-b  ش:O 2:B-u <=> getAddress
+ ح:O 1:B-d  مج:O 4:B-a  ع:O 93:B-b  ش:O 202:B-u <=> getAddress
+ حى:O الاول:B-d المجاورة:O الثانية:B-a عمارة:O   63:B-b  شقه:O   2:B-u <=> getAddress
+ حى:O الاول:B-d المجاورة:O الثانية:B-a عمارة:O   65:B-b شقه:O 1:B-u <=> getAddress
+ 11:O ش:O النسيم:O شقة:O  3:B-u  عمارات:O الندى:B-b الحى:O الثانى:B-d المجاورة:O  4:B-a <=> getAddress
+ 16:O ش:O الازهار:O شقة:O  3:B-u  عمارات:O الندى:B-b الحى:O الثانى:B-d المجاورة:O  4:B-a <=> getAddress
+الحى:O الاول:B-d   المجاورة:O الثالثة:B-a   عمارة:O    21:B-b    شقة:O  3:B-u <=> getAddress
+  الحى:O   3:B-d   مج:O   3:B-a   قطعه:O الدور:O <=> getAddress
+الحى:O الاول:B-d  المجاورة:O الرابعة:B-a عمارة:O  43:B-b  شقة:O  202:B-u <=> getAddress
 
- الحى:B-d الاول:I-d المجاورة:B-a الرابعة:I-a ع:B-b  16:I-b  ش:B-u  404:I-u <=> getAddress
- الحى:B-d الاول:I-d مج:B-a  3:I-a  ع:B-b  97:I-b  شقة:B-u  201:I-u <=> getAddress
- ح:B-d 1:I-d  مج:B-a 5:I-a  ع:B-b 10:I-b  ش:B-u 2:I-u <=> getAddress
- ح:B-d 1:I-d  مج:B-a 4:I-a  ع:B-b 93:I-b  ش:B-u 202:I-u <=> getAddress
- حى:B-d الاول:I-d المجاورة:B-a الثانية:I-a عمارة:B-b   63:I-b  شقه:B-u   2:I-u <=> getAddress
- حى:B-d الاول:I-d المجاورة:B-a الثانية:I-a عمارة:B-b   65:I-b شقه:B-u 1:I-u <=> getAddress
- 11:o ش:O النسيم:O شقة:B-u  3:I-u  عمارات:B-b الندى:I-b الحى:B-d الثانى:I-d المجاورة:B-a  4:I-a <=> getAddress
- 16:O ش:O الازهار:O شقة:B-u  3:I-u  عمارات:B-b الندى:I-b الحى:B-d الثانى:I-d المجاورة:B-a  4:I-a <=> getAddress
-الحى:B-d الاول:I-d   المجاورة:B-a الثالثة:I-a   عمارة:B-b    21:I-b    شقة:B-u  3:I-u <=> getAddress
-  الحى:B-d   3:I-d   مج:B-a   3:I-a   قطعه:O الدور:O <=> getAddress
-الحى:B-d الاول:I-d  المجاورة:B-a الرابعة:I-a عمارة:B-b  43:I-b  شقة:B-u  202:I-u <=> getAddress
+
